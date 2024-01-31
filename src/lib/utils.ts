@@ -68,7 +68,7 @@ export function constructMetadata({
       creator: "@denvudd",
     },
     icons,
-    metadataBase: new URL("https://digital-hippo-production-denvudd.up.railway.app"),
+    metadataBase: new URL("https://silly-smakager-4a8b13.netlify.app""),
     ...(noIndex && {
       robots: {
         index: false,
